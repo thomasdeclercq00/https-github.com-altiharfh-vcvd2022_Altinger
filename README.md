@@ -1,2 +1,2 @@
-# https-github.com-altiharfh-vcvd2022_Altinger
+# vcvd2022_Altinger
 vehicle components and vehicle dynamics WS2022/2023
