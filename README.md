@@ -3,7 +3,7 @@ vehicle components and vehicle dynamics WS2022/2023
 
 # Working Principle of script
 1. Run script
-2. Give input for mass, initial velicity, and inclination
+2. Give input for mass, initial velocity, and inclination
 3. Give input for road type and road conditions
 (All the combinations work as from the presentation. This was not asked for in the assignment, but was added as a way to recap my Python skills, because I didn't use Python for multiple years.)
 4. Multiple output values will be printed
